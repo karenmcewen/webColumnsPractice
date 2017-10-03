@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "webColumnsPractice", "..\..\WebSites\webColumnsPractice\", "{405FC791-1E9A-4FD2-87C2-6974AF3AC2FC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64671"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\webColumnsPractice\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64671\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64671"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\webColumnsPractice\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64671\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64671"
+		SlnRelativePath = "..\..\WebSites\webColumnsPractice\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405FC791-1E9A-4FD2-87C2-6974AF3AC2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405FC791-1E9A-4FD2-87C2-6974AF3AC2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
