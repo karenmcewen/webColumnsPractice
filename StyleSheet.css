@@ -1,5 +1,8 @@
 ﻿body {
 }
+/*don't forget to put' a link to the CSS sheet in the header of the index and each html page*/
+
+/*These are the custom classes that are either not coming from Bootstrap, or will override bootstrap classes*/
   .customDiv{
                   margin:3px;
                   min-height:300px;
